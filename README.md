@@ -1,5 +1,5 @@
 #  Cognitive Load Detection using EEG and GSR
-📖 Project Description
+Project Description
 
 This project focuses on detecting cognitive load levels using EEG (Electroencephalogram) brain signals and GSR (Galvanic Skin Response) data. The aim is to understand how physiological signals change with different levels of mental effort and to classify cognitive load using machine learning techniques.
 
